@@ -2,8 +2,9 @@
 #include <stdio.h>
 #include "helloworld.h"
 
-int echo_helloworld()
+int say_hello()
 {
-    printf("Hello world!\n");
+    printf("Hello, you there!\n");
+    
     return 0;
 }
