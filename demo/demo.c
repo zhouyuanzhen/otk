@@ -6,7 +6,7 @@ int main()
 {
     printf("This a test application!\n");
 
-    echo_helloworld();
+    say_hello();
 
     return 0;
 }
