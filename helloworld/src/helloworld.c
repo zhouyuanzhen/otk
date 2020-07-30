@@ -4,6 +4,7 @@
 
 int say_hello()
 {
-    printf("Hello world!\n");
+    printf("Hello, you there!\n");
+    
     return 0;
 }
